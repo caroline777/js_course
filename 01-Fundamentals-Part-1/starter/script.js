@@ -1,7 +1,7 @@
 /*
 LECTURE: Values and Variables
 
-Let's make a change.
+Let's make a change.2****
 
 let js = "amazing!";
 console.log(40 + 8 + 23 - 10);
@@ -15,6 +15,7 @@ console.log(firstName);
 
 /*
 ASSIGNMENT: Values and Variables
+
 
 1. Declare variables called 'country', 'continent' and 'population' and
 assign their values according to your own country (population in millions)
